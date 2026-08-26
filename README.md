@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/fwimp/njar/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/fwimp/njar/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 `njar` is an R port of the [NJA python
