@@ -1,9 +1,22 @@
 <urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
 <url><loc>https://fwimp.github.io/njar/404.html</loc></url>
 <url><loc>https://fwimp.github.io/njar/LICENSE.html</loc></url>
+<url><loc>https://fwimp.github.io/njar/articles/getting_started.html</loc></url>
+<url><loc>https://fwimp.github.io/njar/articles/index.html</loc></url>
 <url><loc>https://fwimp.github.io/njar/authors.html</loc></url>
 <url><loc>https://fwimp.github.io/njar/index.html</loc></url>
 <url><loc>https://fwimp.github.io/njar/news/index.html</loc></url>
+<url><loc>https://fwimp.github.io/njar/reference/NJANet.html</loc></url>
+<url><loc>https://fwimp.github.io/njar/reference/NJANode.html</loc></url>
+<url><loc>https://fwimp.github.io/njar/reference/border_matrix.html</loc></url>
+<url><loc>https://fwimp.github.io/njar/reference/find_adj_stack.html</loc></url>
+<url><loc>https://fwimp.github.io/njar/reference/generate_test_matrix.html</loc></url>
 <url><loc>https://fwimp.github.io/njar/reference/index.html</loc></url>
+<url><loc>https://fwimp.github.io/njar/reference/load_image.html</loc></url>
+<url><loc>https://fwimp.github.io/njar/reference/load_skel.html</loc></url>
+<url><loc>https://fwimp.github.io/njar/reference/map_junctions.html</loc></url>
+<url><loc>https://fwimp.github.io/njar/reference/njar-package.html</loc></url>
+<url><loc>https://fwimp.github.io/njar/reference/trace_all_paths.html</loc></url>
+<url><loc>https://fwimp.github.io/njar/reference/trace_path.html</loc></url>
 </urlset>
 

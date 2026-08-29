@@ -13,3 +13,22 @@ You can install the development version of `njar` like so:
 # install.packages("pak")
 pak::pkg_install("fwimp/njar")
 ```
+
+## Python dependency - `scikit-image`
+
+In order to provide an option for skeletonization `njar` can call the
+python library `scikit-image`.
+
+For most people this should work as-is (given `reticulate` - the package
+used to call python under-the-hood - is very mature).
+
+If you do not (or cannot) run a python environment for any reason, or if
+this does not work for some reason, you can perform the skeletonization
+process externally using something like [Fiji](https://fiji.sc/) and
+then import this image with the following command:
+
+``` r
+
+library(njar)
+img <- import_image("path/to/image.png", skeletonize = FALSE)
+```
