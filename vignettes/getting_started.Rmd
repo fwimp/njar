@@ -1,0 +1,28 @@
+---
+title: "Getting started with njar"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{getting_started}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+`njar` is a package for fitting graph-theoretic networks to images of spatial networks.
+
+More will be coming here soon.
+
+```{r setup}
+library(njar)
+```
+
+```{r}
+
+```
+
