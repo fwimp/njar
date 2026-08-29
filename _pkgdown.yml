@@ -1,4 +1,6 @@
 url: https://fwimp.github.io/njar/
 template:
   bootstrap: 5
-
+  light-switch: true
+  in_header: |
+      <script src="pkgdown/extra.js"></script>

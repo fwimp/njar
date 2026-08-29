@@ -5,3 +5,5 @@
 .DS_Store
 .quarto
 docs
+pkg_dev_notes.md
+inst/doc
